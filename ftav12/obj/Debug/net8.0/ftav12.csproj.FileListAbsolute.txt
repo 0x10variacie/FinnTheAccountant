@@ -1,0 +1,15 @@
+D:\Coding Folder\VS2022 Repos\0x10variacie\FinnTheAccountant\ftav12\bin\Debug\net8.0\ftav12.exe
+D:\Coding Folder\VS2022 Repos\0x10variacie\FinnTheAccountant\ftav12\bin\Debug\net8.0\ftav12.deps.json
+D:\Coding Folder\VS2022 Repos\0x10variacie\FinnTheAccountant\ftav12\bin\Debug\net8.0\ftav12.runtimeconfig.json
+D:\Coding Folder\VS2022 Repos\0x10variacie\FinnTheAccountant\ftav12\bin\Debug\net8.0\ftav12.dll
+D:\Coding Folder\VS2022 Repos\0x10variacie\FinnTheAccountant\ftav12\bin\Debug\net8.0\ftav12.pdb
+D:\Coding Folder\VS2022 Repos\0x10variacie\FinnTheAccountant\ftav12\obj\Debug\net8.0\ftav12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Folder\VS2022 Repos\0x10variacie\FinnTheAccountant\ftav12\obj\Debug\net8.0\ftav12.AssemblyInfoInputs.cache
+D:\Coding Folder\VS2022 Repos\0x10variacie\FinnTheAccountant\ftav12\obj\Debug\net8.0\ftav12.AssemblyInfo.cs
+D:\Coding Folder\VS2022 Repos\0x10variacie\FinnTheAccountant\ftav12\obj\Debug\net8.0\ftav12.csproj.CoreCompileInputs.cache
+D:\Coding Folder\VS2022 Repos\0x10variacie\FinnTheAccountant\ftav12\obj\Debug\net8.0\ftav12.sourcelink.json
+D:\Coding Folder\VS2022 Repos\0x10variacie\FinnTheAccountant\ftav12\obj\Debug\net8.0\ftav12.dll
+D:\Coding Folder\VS2022 Repos\0x10variacie\FinnTheAccountant\ftav12\obj\Debug\net8.0\refint\ftav12.dll
+D:\Coding Folder\VS2022 Repos\0x10variacie\FinnTheAccountant\ftav12\obj\Debug\net8.0\ftav12.pdb
+D:\Coding Folder\VS2022 Repos\0x10variacie\FinnTheAccountant\ftav12\obj\Debug\net8.0\ftav12.genruntimeconfig.cache
+D:\Coding Folder\VS2022 Repos\0x10variacie\FinnTheAccountant\ftav12\obj\Debug\net8.0\ref\ftav12.dll

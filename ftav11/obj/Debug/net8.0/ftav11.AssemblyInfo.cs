@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ftav11")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa0a79b9961fb33618d45396bdb2b786da569982")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fa8cdf99fdb068b703f10be50311c7553c81b28")]
 [assembly: System.Reflection.AssemblyProductAttribute("ftav11")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ftav11")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
