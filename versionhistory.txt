@@ -1,0 +1,15 @@
+Version 1.0 (Jul 5, 2025):
+- releasing the first version in a code format (non-executable file, solution may be built in Visual Studio to be executed)
+
+Version 1.1 (Jul 25, 2025:
+- (dev) reorganized the code for easier readability
+- introduced Settings with Console Clear
+- (dev) two undocumented features (if you can find them, you're my bro)
+- corrected the display of currency in Daily Expenses utilityRename ftav10 to ftav10.cs
+
+Version 1.2 (Aug 11, 2025):
+- (developers) Restructured the code;
+- Introducing Savings and Investments section, hotkeys changed
+- Investments: Investment Value Calculator
+- Savings: Daily Expenses unchanged
+- version history file added
